@@ -1,3 +1,3 @@
 # github_practice_delete change happen
 
-new branch
+new branch conflict in mian
